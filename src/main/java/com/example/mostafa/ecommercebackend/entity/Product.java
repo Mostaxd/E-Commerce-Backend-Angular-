@@ -29,7 +29,7 @@ import java.util.Date;
         private BigDecimal price;
 
         @Column(name = "image")
-        private String imageUrl;
+        private String image;
 
     }
 
