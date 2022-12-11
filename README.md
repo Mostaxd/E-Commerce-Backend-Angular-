@@ -20,4 +20,5 @@ This is the Backend API that supports the Angular Front-End Project Link: https:
 
 # My current database Structure
 
-![ecommerce database structure](https://user-images.githubusercontent.com/53091141/206375516-8ebc0fcd-1ab3-4fa6-bc0d-fd1f653c0bb5.png)
+
+![ecommerce database structure](https://user-images.githubusercontent.com/53091141/206884018-c41eff15-4aed-40a9-b407-b4014932507b.png)
