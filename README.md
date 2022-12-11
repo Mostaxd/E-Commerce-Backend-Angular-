@@ -3,7 +3,9 @@
 This is the Backend API that supports the Angular Front-End Project Link: https://github.com/Mostaxd/E-Commerce-Angular
 
 Live View of the Backend:
+
 API response: https://ecommerce-backend-3.herokuapp.com/api/
+
 Products: https://ecommerce-backend-3.herokuapp.com/api/products
 
 # Project Setup
