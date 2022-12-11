@@ -10,7 +10,7 @@ This is the Backend API that supports the Angular Front-End Project Link: https:
 
 3- Go to resources/application.properties
 
-4- Change the ```full-stack-ecommerce``` line to your MySQL database name, change username and password to your db username and pass
+4- Change the ```ecommerce_database``` line to your MySQL database name, change username and password to your db username and pass
 ![spring boot](https://user-images.githubusercontent.com/53091141/206374606-e272a755-e956-423e-9508-1f4f67834a50.png)
 
 5- Add and install the Maven dependencies from pom.xml and run the app.
