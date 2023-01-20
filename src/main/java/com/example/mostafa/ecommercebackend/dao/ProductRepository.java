@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import java.util.List;
 
 
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("http://mostaxd-ecommerce.s3-website.eu-central-1.amazonaws.com/")
 public interface ProductRepository extends JpaRepository<Product, Long> {
     @Query("SELECT p FROM Product p WHERE p.category = :category")
     public List<Product> findByCategory(@Param("category") String category);

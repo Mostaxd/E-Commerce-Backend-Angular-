@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("http://mostaxd-ecommerce.s3-website.eu-central-1.amazonaws.com/")
 public class ProductCategoryController {
 
     @Autowired
